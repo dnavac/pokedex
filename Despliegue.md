@@ -22,4 +22,4 @@ Paso 10. Pegar tu proyecto dentro de esta carpeta
 
 Paso 11. Ir al apartado introducción en el panel a la derecha
 
-Paso 12. Ingresar al dominio predeterminado
+Paso 12. Ingresar al dominio predeterminado en mi caso seria este: poxedex.azurewebsites.net
